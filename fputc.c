@@ -7,7 +7,7 @@
 
 int main (){
 	
-	char article[30]="Science of Programming";
+	char article[30]="Science of Programming\n";
 	int lenght=strlen(article);
 	int i;
 	
